@@ -1,4 +1,11 @@
+nav {
+  padding: 25px;
+}
 nav a{
+  color: black;
+  padding: 10px;
   margin-right: 20px;
-  font-size: 25px;
+  font-size: 25px ;
+  border: 5px solid gray;
+  border-radius: 10px;
 }
