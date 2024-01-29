@@ -1,8 +1,9 @@
 .grandpa, .grandpa div{
-  border: 3px solid cyan;
-  padding: 5px;
-  margin: 20px;
+  background-color: rgb(227, 230, 221);
+  border: 3px solid rgb(29, 235, 243);
+  margin: 15px;
   border-radius: 20px;
+  width: fit-content;
 }
 .flex{
   display: flex;  
